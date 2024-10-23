@@ -97,9 +97,6 @@
           // this.copy2 = this.test[0]
           // console.log("copy2",this.copy2)
           // this.copy2.height = 300;
-          // console.log("copy2",this.copy2)
-          // this.test = res.data.recommend.list
-          // this.test = ["aa"]
           this.test[0].height = 300
           console.log("test2",this.test)
           console.log("banners",this.banners)
